@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\TIENDATA\Awesome Wallpapers\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\TIENDATA\Awesome Wallpapers\app\build\intermediates\pre-dexed\debug\volley_5a220a8ba5d008bb8fb16c2091c5ac3502cde5ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\DMSv4\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\TIENDATA\Awesome Wallpapers\app\build\intermediates\pre-dexed\debug\gson-2.2.4_f9f5e775db4e3cf1886e08188b88bee6a916dc86.jar" />
+    </item>
+    <item
+        jar="E:\ANDROIDSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\TIENDATA\Awesome Wallpapers\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_d0ec46eea8becd3229e8af39d28407962c63c7a5.jar" />
+    </item>
+
+</items>

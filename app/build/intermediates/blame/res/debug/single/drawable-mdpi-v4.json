@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\TIENDATA\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\TIENDATA\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TIENDATA\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_drawer.png",
+        "source": "E:\\TIENDATA\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\TIENDATA\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_overflow.png",
+        "source": "E:\\TIENDATA\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "E:\\TIENDATA\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home.png",
+        "source": "E:\\TIENDATA\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    }
+]
